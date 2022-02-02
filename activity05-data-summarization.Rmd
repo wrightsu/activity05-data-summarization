@@ -146,6 +146,8 @@ Provide a discussion on how your descriptions in the Median Earnings by Major Ca
 **Response**:
 
 
+<img src="README-img/noun_pause.png" alt="pause" width = "20"/> <b>Planned Pause Point</b>: If you feel that you have a good understanding of these commands, feel free to start working on your project. The remainder of this activity will help to expand these commands.
+
 ### Multiple Rankings
 
 #### Ranking by `major_category`
