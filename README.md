@@ -13,9 +13,6 @@ In this activity, you will:
 
 ## ☑️ Task 1: The Workflow
 
-Remember to take these steps slowly, help each other out, and get a hold
-of your instructor when you have questions or issues.
-
 **You may need your PAT that you created in Activity 1**. If you
 misplaced this token, you will need to create a new one prior to
 beginning the steps below. You can do this by going back to your
